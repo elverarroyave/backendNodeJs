@@ -1,0 +1,9 @@
+intalacion de node js con el comando 
+
+npm isntall node -g 
+
+instalacion de express:
+
+npm install express -g 
+luego 
+npm install express 
